@@ -12,10 +12,10 @@ Tech Lead chez EasyVista (plateforme ITSM), j'intègre l'IA générative en prod
 - **Leadership technique** : choix d'architecture, encadrement, qualité du code
 
 ## Produits que je construis à côté
-- **WaMarcket** : vente via WhatsApp pour les commerçants d'Afrique de l'Ouest
+- **[WaMarcket](https://marcket.com)** : vente via WhatsApp pour les commerçants d'Afrique de l'Ouest
 - **GuestConnect** : gestion de maisons d'hôtes
 - **[Melimelody](https://melimelody.com)** : chansons personnalisées générées par IA
-- **Crushduo** : site de rencontre
+- **[Crushduo](https://crushduo.com)** : site de rencontre
 
 *Code privé, démo sur demande.*
 
