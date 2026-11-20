@@ -1,12 +1,26 @@
-- 👋 Hi, my name is @wilzuck
-- 👀 I am interested in Backend and Frontent development
-- 🌱 I am currently learning Python
-- 💞️ I am looking to collaborate on Open source projects
-- 📫 How to contact me https://wes.odacesoft.com
-- 😄 Pronouns: Wilzuck
-- ⚡ Fun fact: Blaques, Mood, A little vain feels good...
+# Wilfried ETEKA
+**Tech Lead · Engineer spécialisé IA appliquée & architecture Cloud**
+📍 Paris, Île-de-France
 
-<!---
-wilzuck/wilzuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je conçois et mets en production des systèmes qui intègrent des LLM, de l'architecture backend jusqu'à l'interface.
+Tech Lead chez EasyVista (plateforme ITSM), j'intègre l'IA générative en production et je fais tourner des agents IA sur des bases de code réelles.
+
+## Ce que je fais
+- **IA appliquée** : intégration de LLM en production, agents IA sur du code réel
+- **Backend & Cloud** : Python, conception d'architectures
+- **Frontend** : Next.js, TypeScript
+- **Leadership technique** : choix d'architecture, encadrement, qualité du code
+
+## Produits que je construis à côté
+- **WaMarcket** : vente via WhatsApp pour les commerçants d'Afrique de l'Ouest
+- **GuestConnect** : gestion de maisons d'hôtes
+- **Chantify** : chansons personnalisées générées par IA
+- **Crushduo** : site de rencontre
+
+*Code privé, démo sur demande.*
+
+## Stack
+`Python` · `TypeScript` · `Next.js` · `LLM APIs` · `Cloud`
+
+## Contact
+🌐 [etekawilfried.odacesoft.com](https://etekawilfried.odacesoft.com)
