@@ -17,7 +17,7 @@ Tech Lead chez EasyVista (plateforme ITSM), j'intègre l'IA générative en prod
 - **[Melimelody](https://melimelody.com)** : chansons personnalisées générées par IA
 - **[Crushduo](https://crushduo.com)** : site de rencontre
 
-*Code privé, démo sur demande.*
+*Produits en ligne · code privé.*
 
 ## Stack
 `Python` · `TypeScript` · `Next.js` · `LLM APIs` · `Cloud`
